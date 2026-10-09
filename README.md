@@ -14,7 +14,7 @@
 
 ### 🧭 About Me
 - 🐲 Otherkin, a dragon of scaly white
-- 🌐 Into **networking**: tunneling, virtual LAN, proxies, censorship bypassing, L7 firewalls
+- 🌐 Into **networking**: tunneling, virtual LAN, proxies, anti-censorship, L7 firewalls
   - Built a cross-platform virtual LAN with TUN interfaces and server-issued configuration
   - Built a domain-fronting covert communication PoC with DoH resolution
 - 🧩 Building **full-stack platforms** with Go microservices and modern web frontends
